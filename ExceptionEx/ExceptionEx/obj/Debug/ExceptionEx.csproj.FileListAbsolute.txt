@@ -1,0 +1,7 @@
+D:\csharp\ExceptionEx\ExceptionEx\bin\Debug\ExceptionEx.exe.config
+D:\csharp\ExceptionEx\ExceptionEx\bin\Debug\ExceptionEx.exe
+D:\csharp\ExceptionEx\ExceptionEx\bin\Debug\ExceptionEx.pdb
+D:\csharp\ExceptionEx\ExceptionEx\obj\Debug\ExceptionEx.csproj.AssemblyReference.cache
+D:\csharp\ExceptionEx\ExceptionEx\obj\Debug\ExceptionEx.csproj.CoreCompileInputs.cache
+D:\csharp\ExceptionEx\ExceptionEx\obj\Debug\ExceptionEx.exe
+D:\csharp\ExceptionEx\ExceptionEx\obj\Debug\ExceptionEx.pdb

@@ -1,0 +1,7 @@
+D:\csharp\FileHendling\FileHendling\bin\Debug\FileHendling.exe.config
+D:\csharp\FileHendling\FileHendling\bin\Debug\FileHendling.exe
+D:\csharp\FileHendling\FileHendling\bin\Debug\FileHendling.pdb
+D:\csharp\FileHendling\FileHendling\obj\Debug\FileHendling.csproj.AssemblyReference.cache
+D:\csharp\FileHendling\FileHendling\obj\Debug\FileHendling.csproj.CoreCompileInputs.cache
+D:\csharp\FileHendling\FileHendling\obj\Debug\FileHendling.exe
+D:\csharp\FileHendling\FileHendling\obj\Debug\FileHendling.pdb
