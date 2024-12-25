@@ -8,6 +8,7 @@ namespace ExceptionEx
 {
     internal class Program
     {
+        //demo
         public static void chekcarray()
         {
             int[] myNumbers = { 1, 2, 3 };
